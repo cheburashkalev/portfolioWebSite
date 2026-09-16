@@ -243,7 +243,7 @@ function App() {
                 <a href="#projects" className="primary-btn">
                   Explore my work <ArrowRight size={16} />
                 </a>
-                <a href="Software%20Developer%20Andrei%20Levchenko.pdf" target="_blank" rel="noreferrer" className="secondary-btn">
+                <a href="/cv.pdf" target="_blank" rel="noreferrer" className="secondary-btn">
                   <Download size={16} /> Download CV
                 </a>
               </div>
