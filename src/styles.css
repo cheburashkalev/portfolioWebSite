@@ -898,6 +898,15 @@ select {
   color: rgba(255,255,255,0.7);
 }
 
+.footer-meta a {
+  color: inherit;
+  transition: color 0.2s ease;
+}
+
+.footer-meta a:hover {
+  color: hsl(var(--accent));
+}
+
 .footer-bottom {
   width: min(var(--content-width), calc(100% - 40px));
   margin: 22px auto 0;

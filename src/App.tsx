@@ -544,9 +544,9 @@ const andrei = {
 
           <div className="footer-meta mono">
             <span>Novi Sad · Serbia</span>
-            <span>GitHub</span>
-            <span>LinkedIn</span>
-            <span>Email</span>
+            <a href="https://github.com/cheburashkalev" target="_blank" rel="noreferrer">GitHub</a>
+            <a href="https://www.linkedin.com/in/andrey-levchenko-a30a1622a/" target="_blank" rel="noreferrer">LinkedIn</a>
+            <a href="mailto:duxan.lev@gmail.com">Email</a>
           </div>
         </div>
         <div className="container footer-bottom mono">Built with React · TypeScript</div>
