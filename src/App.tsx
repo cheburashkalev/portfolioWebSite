@@ -10,6 +10,7 @@ import {
   Mail,
   MapPin,
   Network,
+  Phone,
   ShieldCheck,
   Sparkles,
   Wifi,
@@ -524,9 +525,10 @@ const andrei = {
             <motion.div {...fadeUp} className="contact-panel">
               <div className="contact-list">
                 <a href="mailto:duxan.lev@gmail.com"><Mail size={16} /> duxan.lev@gmail.com</a>
+                <a href="tel:+381628932714"><Phone size={16} /> +381628932714</a>
                 <a href="https://www.google.com/maps?q=Novi+Sad,+Serbia" target="_blank" rel="noreferrer"><MapPin size={16} /> Novi Sad, Serbia</a>
-                <a href="https://github.com" target="_blank" rel="noreferrer"><GitBranch size={16} /> GitHub</a>
-                <a href="https://linkedin.com" target="_blank" rel="noreferrer"><Network size={16} /> LinkedIn</a>
+                <a href="https://github.com/cheburashkalev" target="_blank" rel="noreferrer"><GitBranch size={16} /> GitHub</a>
+                <a href="https://www.linkedin.com/in/andrey-levchenko-a30a1622a/" target="_blank" rel="noreferrer"><Network size={16} /> LinkedIn</a>
               </div>
             </motion.div>
           </div>
