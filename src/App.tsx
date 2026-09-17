@@ -48,11 +48,11 @@ const principleList = [
 const stackGroups = [
   {
     title: 'Backend & Systems',
-    items: ['Rust', 'C#', '.NET', 'TypeScript', 'WebSocket', 'API development', 'Distributed Systems'],
+    items: ['Rust', 'C#', '.NET', 'TypeScript', 'SQL', 'WebSocket', 'API development', 'Distributed Systems'],
   },
   {
     title: 'Infrastructure',
-    items: ['Linux', 'Docker', 'Nginx', 'HAProxy', 'Reverse Proxy', 'TLS', 'DNS', 'CI/CD'],
+    items: ['Linux', 'Docker', 'Nginx', 'HAProxy', 'Reverse Proxy', 'TLS', 'DNS', 'Git', 'GitLab CI/CD'],
   },
   {
     title: 'Networking',
@@ -157,7 +157,7 @@ const experience = [
     place: 'BlockZero DOO',
     role: 'Software Engineer',
     location: 'Novi Sad, Serbia',
-    focus: ['backend systems', 'blockchain infrastructure', 'cross-platform wallet', 'infrastructure optimization', 'Voice-to-Voice AI', 'LARVA Link', 'performance engineering', 'Docker / Linux', 'WebSocket', 'CI/CD'],
+    focus: ['backend systems', 'blockchain infrastructure', 'cross-platform wallet', 'infrastructure optimization', 'Voice-to-Voice AI', 'LARVA Link', 'performance engineering', 'Docker / Linux', 'WebSocket', 'SQL', 'Git', 'GitLab CI/CD', 'GitLab CE deployment and migration'],
     highlight: 'SERVER PERFORMANCE +300% · INFRA COST -60%',
   },
   {
