@@ -250,7 +250,7 @@ function App() {
               </div>
 
               <div className="chip-row" aria-label="Core technologies">
-                {['Rust', 'C#', '.NET', 'TypeScript', 'Linux', 'Docker', 'Nginx', 'HAProxy', 'Networking', 'Blockchain', 'AI / LLM', 'Unreal Engine'].map((chip) => (
+                {['Rust', 'C#', '.NET', 'TypeScript', 'SQL', 'Git', 'GitLab CI/CD', 'Linux', 'Docker', 'Nginx', 'HAProxy', 'Networking', 'Blockchain', 'AI / LLM', 'Unreal Engine'].map((chip) => (
                   <span key={chip} className="chip">{chip}</span>
                 ))}
               </div>
